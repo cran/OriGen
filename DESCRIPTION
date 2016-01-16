@@ -1,7 +1,7 @@
 Package: OriGen
 Type: Package
 Title: Fast Spatial Ancestry via Flexible Allele Frequency Surfaces
-Version: 1.3.1
+Version: 1.4.3
 Author: John Michael O Ranola, John Novembre, and Kenneth Lange
 Depends: maps, ggplot2
 Maintainer: John Michael O. Ranola <ranolaj@uw.edu>
@@ -12,10 +12,7 @@ Description: Used primarily for estimates of allele frequency surfaces from poin
     See "Fast Spatial Ancestry via Flexible Allele Frequency Surfaces" (John Michael Ranola, John
     Novembre, Kenneth Lange) in Bioinformatics 2014 for more info.
 License: GPL (>= 2)
-Repository: CRAN
-Repository/R-Forge/Project: origen
-Repository/R-Forge/Revision: 18
-Repository/R-Forge/DateTimeStamp: 2015-09-09 05:09:45
-Date/Publication: 2015-09-09 09:20:21
 NeedsCompilation: yes
-Packaged: 2015-09-09 05:26:30 UTC; rforge
+Packaged: 2016-01-16 07:00:22 UTC; kamicz
+Repository: CRAN
+Date/Publication: 2016-01-16 09:10:00
